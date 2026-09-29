@@ -1,0 +1,9 @@
+# Slack Socket Mode client + web API
+slack-bolt>=1.30
+slack-sdk>=3.44
+
+# OpenRouter (OpenAI-compatible client)
+openai>=1.40
+
+# .env loading
+python-dotenv>=1.0

@@ -1,0 +1,20 @@
+# Secrets - Slack tokens and the OpenRouter key
+.env
+
+# Private email data: senders, subjects, recruiter names, addresses.
+# None of this belongs in a repository.
+bot.log
+bot.log.*
+bot-console.log
+triage.log
+triage.log.*
+processed.json
+processed.tmp
+cards.json
+cards.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
